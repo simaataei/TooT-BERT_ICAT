@@ -1,0 +1,13 @@
+CHEBI,substrate,label
+CHEBI:24636,proton,0
+CHEBI:29108,calcium(2+),1
+CHEBI:29103,potassium(1+),2
+CHEBI:17996,chloride,3
+CHEBI:29101,sodium(1+),4
+CHEBI:16189,sulfate,5
+CHEBI:29105,zinc(2+),6
+CHEBI:28938,ammonium,7
+CHEBI:17632,nitrate,8
+CHEBI:29033,iron(2+),9
+CHEBI:35780,phosphate ion,10
+CHEBI:49552,copper(1+),11
